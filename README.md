@@ -19,7 +19,7 @@ The Task Management System is a web application built with Node.js, Express.js, 
 - Cron Jobs (node-cron)
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/AnkitNayan83/Task-App.git`
+1. Clone the repository: `git clone https://github.com/AnkitNayan83/Task-Management-System.git`
 2. Install dependencies: `npm install`
 3. Set up environment variables (e.g., Twilio credentials, database connection)
 4. Start the server: `npm start`
