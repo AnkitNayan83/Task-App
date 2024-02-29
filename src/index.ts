@@ -17,6 +17,7 @@ app.use(express.json());
 app.use("/api/auth", authRoutes);
 app.use("/api/task", taskRoutes);
 app.use("/api/sub-task", subTaskRoutes);
+
 app.get("*", (req, res) => {
     res.send("<h1>404 Route not found</h1>");
 });
